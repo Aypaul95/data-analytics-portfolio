@@ -16,3 +16,5 @@ Payroll Compensation Analysis & Employee Attritio and Retention analysis.
 ## Skills
 SQL | Power BI | Data Modeling | HR Analytics
 
+## Tools
+SQL Server Management Studio | Power BI
