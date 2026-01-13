@@ -1,1 +1,13 @@
+“I built an Employee Attrition and Retention Analysis dashboard using Power BI, with data sourced from SQL Server.
 
+The goal of the project was to help HR and management understand workforce stability by analyzing employee exits, retention patterns, early attrition, and employee lifecycle trends.
+
+I worked with five tables: employees, terminations, departments, job_roles, and employee_status_history. The employees table acts as the central fact table, while the others function as dimension tables. Instead of using SQL joins inside Power BI, I modeled relationships between these tables using employee_id, department_id, and job_role_id, which allows the visuals to respond dynamically to filters.
+
+I created key DAX measures such as Total Employees, Active Employees, Attrition Rate, Early Attrition, Average Tenure Before Exit, and Average Probation Duration. These measures recalculate automatically based on slicers and filter context, making the dashboard fully interactive.
+
+The dashboard includes KPI cards for headcount and attrition rate, bar charts for attrition by department and job role, a pie chart to compare voluntary versus involuntary exits, a funnel chart to show employee lifecycle stages, and line or bar charts for retention cohort analysis by hire year.
+
+I also added slicers for department, job role, hire year, and termination type so HR users can drill down into specific segments of the workforce.
+
+Overall, this dashboard helps HR identify high-risk departments, detect onboarding issues through early attrition, evaluate retention trends over time, and make data-driven decisions to improve employee retention and reduce turnover costs.”
