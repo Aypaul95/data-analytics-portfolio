@@ -2,13 +2,13 @@ PROJECT: Employee Lifecycle, Attrition & Retention Analysis
 
 (Critical for HR analytics teams)
 
-🎯 Business Problem
+ Business Problem
 
 “Why are employees leaving, when, and from which departments?”
 
 HR startups sell retention insights to companies.
 
-📊 What You’ll Analyze
+ What You’ll Analyze
 
 Hiring vs exit trends
 
