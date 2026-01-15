@@ -1,7 +1,7 @@
 # Segun Omotosho – Data Analytics Portfolio
 
 This repository contains SQL and Power BI projects focused on
-Payroll Compensation Analysis & Employee Attritio and Retention analysis.
+Payroll Compensation Analysis, Customer Churn Analysis & Employee Attritio and Retention analysis.
 
 ## Projects
 
@@ -12,6 +12,10 @@ Payroll Compensation Analysis & Employee Attritio and Retention analysis.
 ### Employee Attrition & Retention Analysis
 - SQL Project → sql-projects/employee_attrition_analysis
 - Power BI Dashboard → powerbi-projects/attrition_dashboard
+
+### Customer Churn Analysis
+- SQL Project -> sql-projects/customer_churn_analysis
+- Power BI Dashboard -> powerbi-projects/customer_churn_dashboard
 
 ## Skills
 SQL | Power BI | Data Modeling | HR Analytics
