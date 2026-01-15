@@ -1,8 +1,11 @@
 Customer Churn Analysis (SQL + Power BI)
+
 Project Overview
 This project analyzes customer churn for a SaaS/Telecom-style business to understand why customers leave, when they leave, and how usage behavior affects retention.
 
 The goal is to provide data-driven insights that help reduce churn and improve customer lifetime value.
+
+
 
 Business Questions Answered
 
@@ -15,6 +18,8 @@ How does customer usage relate to churn?
 How long do customers stay active after signup?
 
 What are the main reasons customers leave?
+
+
 
 Dataset Description
 
@@ -29,6 +34,8 @@ usage – product usage and engagement metrics
 churn – churn events and reasons
 
 Data was generated in SQL Server (SSMS) with clear numerical differences for strong visualization in Power BI.
+
+
 
 Tools & Skills Used
 
@@ -49,6 +56,8 @@ Line and bar charts
 Retention cohort heatmap
 
 Usage vs churn analysis
+
+
 
 Key Insights
 
