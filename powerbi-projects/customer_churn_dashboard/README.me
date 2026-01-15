@@ -1,1 +1,11 @@
+“I built a Customer Churn Analysis dashboard using SQL Server and Power BI to understand why customers leave and how usage behavior affects retention.
 
+I started by modeling four tables: customers, subscriptions, usage, and churn. The customers table serves as the main dimension, and it’s related one-to-many with the other tables through customer_id. This allowed me to avoid complex SQL joins and instead use Power BI’s data model.
+
+In Power BI, I created DAX measures for key KPIs such as Total Customers, Churned Customers, and Overall Churn Rate. These give a high-level view of customer loss. I then analyzed churn trends over time using a monthly churn line chart to identify whether churn is increasing or decreasing.
+
+To understand who is churning, I analyzed churn by subscription plan and by usage behavior. I segmented customers into low, medium, and high usage groups and found that low-usage customers churn significantly more, which indicates disengagement before churn.
+
+One of the most important visuals is the retention cohort matrix. I grouped customers by their signup month and tracked how many remain active in subsequent months using usage data. This shows exactly when customers drop off and helps identify onboarding or product issues.
+
+Finally, I analyzed churn reasons to give actionable insights to product and support teams. Overall, this dashboard helps the business move from reactive churn tracking to proactive retention strategies.”
