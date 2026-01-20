@@ -17,6 +17,10 @@ Payroll Compensation Analysis, Customer Churn Analysis & Employee Attritio and R
 - SQL Project -> sql-projects/customer_churn_analysis
 - Power BI Dashboard -> powerbi-projects/customer_churn_dashboard
 
+### E-commerce Customer Behavior Analysis
+- SQL Project -> sql-projects/e-commerce_customer_behavior_analysis
+- Power BI Dashboard -> powerbi-projects/e-commerce_customer_behavior_dashboard
+
 ## Skills
 SQL | Power BI | Data Modeling | HR Analytics
 
